@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/andmarruda" target="blank"><img src="https://img.shields.io/twitter/follow/andmarruda?logo=twitter&style=for-the-badge" alt="andmarruda" /></a> </p>
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/andmarruda/badge.svg)](https://hub.xerj.org/contributors/andmarruda)
+
 - 🌱 I’m currently learning **ReactJS, Python, Flutter, AI, ML**
 
 <h3 align="left">Connect with me:</h3>
